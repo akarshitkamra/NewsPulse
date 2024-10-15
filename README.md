@@ -1,4 +1,4 @@
-#NewsPulse
+# NewsPulse
 
 ### Project Description
 **NewsPulse** is a news aggregation platform designed to provide users with a curated feed of top news articles from various sources. It offers a user-friendly interface for quickly accessing and consuming relevant news content.
